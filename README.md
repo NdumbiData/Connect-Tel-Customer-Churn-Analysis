@@ -40,7 +40,7 @@ Connect Tel, a global telecommunications provider, is facing high customer churn
 - **Class Imbalance Handling:**  
   - Adjusted class weights (0:1, 1:3) to improve model performance.  
 
-## **Results & Recommendations 📌**  
+## **Results & Recommendations **  
 - **Best Performing Models**:  
   - **SGD Classifier & Logistic Regression** (best balance between recall & precision).  
   - **XGBoost** performed well but required fine-tuning.  
@@ -54,7 +54,7 @@ Connect Tel, a global telecommunications provider, is facing high customer churn
 - Develop a **real-time churn prediction system** integrated into Connect Tel’s CRM.  
 - **A/B test retention strategies** to measure effectiveness.  
 
-## **Tech Stack 🛠**  
+## **Tech Stack **  
 - **Python** (NumPy, Pandas, Matplotlib, Seaborn)  
 - **Scikit-Learn, XGBoost**  
 - **Jupyter Notebook**  
@@ -63,7 +63,7 @@ Connect Tel, a global telecommunications provider, is facing high customer churn
 ## **How to Run the Project**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/ndumbidata/Churn-Analysis.git
+   git clone https://github.com/yourusername/Churn-Analysis.git
    cd Churn-Analysis
    ```
 2. Install dependencies:  
@@ -79,9 +79,6 @@ Connect Tel, a global telecommunications provider, is facing high customer churn
 ---
 
 ### **Connect with Me**  
-📧 **Email:** ndukim@gmail.com.com  
-🔗 **Portfolio:** [ndumbidata.com](#)  
-💼 **LinkedIn:** [linkedin.com/in/ndumbikimani](#)  
-
----
-
+ **Email:** ndukim@gmail.com  
+ **Portfolio:** [ndumbidata.com](#)  
+ **LinkedIn:** [www.linkedin.com/in/ndumbi-kimani-509699108)  
