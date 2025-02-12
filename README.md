@@ -2,6 +2,7 @@
 **Author:** Ndumbi Kimani  
 ---
 
+
 ## **Project Overview**  
 Connect Tel, a global telecommunications provider, is facing high customer churn, threatening growth and profitability. This project applies **exploratory data analysis (EDA)** and **machine learning** to predict churn and recommend data-driven retention strategies.
 
